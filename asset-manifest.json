@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/AlfonsopechMag/Portfolio-AP/static/css/main.54179614.css",
-    "main.js": "/AlfonsopechMag/Portfolio-AP/static/js/main.cf9d4d47.js",
-    "index.html": "/AlfonsopechMag/Portfolio-AP/index.html",
-    "main.54179614.css.map": "/AlfonsopechMag/Portfolio-AP/static/css/main.54179614.css.map",
-    "main.cf9d4d47.js.map": "/AlfonsopechMag/Portfolio-AP/static/js/main.cf9d4d47.js.map"
+    "main.css": "/Portfolio-AP/static/css/main.54179614.css",
+    "main.js": "/Portfolio-AP/static/js/main.e06d077e.js",
+    "index.html": "/Portfolio-AP/index.html",
+    "main.54179614.css.map": "/Portfolio-AP/static/css/main.54179614.css.map",
+    "main.e06d077e.js.map": "/Portfolio-AP/static/js/main.e06d077e.js.map"
   },
   "entrypoints": [
     "static/css/main.54179614.css",
-    "static/js/main.cf9d4d47.js"
+    "static/js/main.e06d077e.js"
   ]
 }
