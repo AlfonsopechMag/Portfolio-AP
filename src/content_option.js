@@ -83,7 +83,7 @@ const services = [
 
 const dataportfolio = [
     {
-        img: "/Portfolio-AP/static/media/booking_engine.4c4c1a283ef80d1152d9.png",
+        img: "https://mma.prnewswire.com/media/900516/Palace_Resorts_Logo.jpg?p=facebook",
         description: "Search engine for reservations in the commercial chain of Palace Resorts.",
         link: "https://onlinebookingspr.palaceresorts.com/",
     },
@@ -93,30 +93,27 @@ const dataportfolio = [
         link: "https://agencydirect.palaceresorts.com/",
     },
     {
-        img: "/Portfolio-AP/static/media/task_manager.77712facf71c21e37f7a.png",
+        img: "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/04/react-js-and-vite-js-logo-on-night-sky-background.jpg",
         description: "Practice of a task manager with timer testing Vite+React",
         link: "https://alfonsopechmag.github.io/task-manager/",
     },
     {
-        img: "/Portfolio-AP/static/media/poke_shop.36a2658c569b59ad377f.png",
+        img: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pok%C3%A9mon_logo.svg/1200px-International_Pok%C3%A9mon_logo.svg.png",
         description: "Practice of a pokemon store using create-react-app and LocalStorage",
         link: "https://alfonsopechmag.github.io/poke-store/",
     },
     {
-        img: "/Portfolio-AP/static/media/alquiladora_cecilia.967110fe3d429e95f8bb.png",
+        img: "https://cupecomi.com/alquiladoracecilia.com/wp-content/uploads/2018/03/logo-alq-cecilia-2-e1521150438858.png",
         description: "Alquiladora Cecilia: table and chair rental site ",
-        link: "https://alfonsopechmag.github.io/task-manager/",
+        link: "https://alquiladoracecilia.com/",
     },
-    
-    
     {
-        img: "/Portfolio-AP/static/media/nera_agro.54d8fbc8551055380d77.png",
+        img: "https://media.licdn.com/dms/image/C4D0BAQGq8iVDHr4xOg/company-logo_200_200/0/1663774273479?e=2147483647&v=beta&t=kfNQFQrCZ46xVWPXQj2UTnC6F9xHzrWtt6Zg9vpjYJ0",
         description: "Digital platform that optimizes the financial management of agriculture and makes it simple, practical and integrated.",
         link: "https://productor.nera-agro.com/",
     },
-    
     {
-        img: "/Portfolio-AP/static/media/office_banking2.179904f342cfd94b7395.png",
+        img: "https://www.galicia.ar/content/dam/galicia/banco-galicia/personas/home/Logo-tenes-galicia.jpg",
         description: "Galicia bank site",
         link: "https://www.galicia.ar/personas/online-banking-galicia",
     },
