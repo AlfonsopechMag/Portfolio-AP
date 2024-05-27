@@ -79,18 +79,18 @@ code {
 }
 
 .cursor__dot div:last-child {
-    background-color: var(--text-color-3) !important;
+    /* background-color: var(--text-color-3) !important; */
 }
 
 .cursor__dot div:first-child {
-    filter: invert(1);
-    background-color: var(--overlay-color) !important;
+    /* filter: invert(1);
+    background-color: var(--overlay-color) !important; */
 }
 
-.color_pr {
+/* .color_pr {
     color: var(--primary-color) !important;
-}
+} */
 
-.color_sec {
+/* .color_sec {
     color: var(--secondary-color);
-}
+} */

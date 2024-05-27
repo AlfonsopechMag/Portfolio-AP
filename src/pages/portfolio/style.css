@@ -23,6 +23,7 @@
 
 .po_item img {
     max-width: 100%;
+    padding-top: 60px;
 }
 
 .po_item .content {

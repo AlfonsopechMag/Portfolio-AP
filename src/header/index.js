@@ -3,7 +3,7 @@ import "./style.css";
 import { VscGrabber, VscClose } from "react-icons/vsc";
 import { Link } from "react-router-dom";
 import { logotext ,socialprofils } from "../content_option";
-import Themetoggle from "../components/themetoggle";
+/* import Hashcash from 'hashcash' */
 
 const Headermain = () => {
   const [isActive, setActive] = useState("false");
@@ -13,6 +13,8 @@ const Headermain = () => {
     document.body.classList.toggle("ovhidden");
   };
 
+  /* const stamp = Hashcash.generateStamp(16, "unique-data-goes-here") */
+
   return (
     <>
       <header className="fixed-top site__header">
@@ -21,7 +23,7 @@ const Headermain = () => {
             {logotext}
           </Link>
           <div className="d-flex align-items-center">
-          <Themetoggle />
+         {/*  <Themetoggle /> */}
           <button className="menu__button  nav_ac" onClick={handleToggle}>
             {!isActive ? <VscClose /> : <VscGrabber />}
           </button>
@@ -52,9 +54,8 @@ const Headermain = () => {
           </div>
           <div className="menu_footer d-flex flex-column flex-md-row justify-content-between align-items-md-center position-absolute w-100 p-3">
             <div className="d-flex">
-            <a href={socialprofils.facebook}>Facebook</a>
             <a href={socialprofils.github}>Github</a>
-            <a href={socialprofils.twitter}>Twitter</a>
+
             </div>
             <p className="copyright m-0">copyright __ {logotext}</p>
           </div>
